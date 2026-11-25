@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The ficus signed the handover form in soil, so the inbox is officially its problem now.
 const text = "Away. I have delegated everything to a houseplant. It has more authority than me now.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
